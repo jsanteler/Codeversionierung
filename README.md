@@ -1,7 +1,7 @@
 # Codeversionierung
 
 
-#Hier wurde ein Beispielablauf für Github FLow dokumentiert und festgehalten. Es wurde auf dem Repository FSEGitTest gearbeitet.
+### Hier wurde ein Beispielablauf für Github FLow dokumentiert und festgehalten. Es wurde auf dem Repository FSEGitTest gearbeitet.
 
 
 Riccardo hat ein GIT Repository erstellt.
